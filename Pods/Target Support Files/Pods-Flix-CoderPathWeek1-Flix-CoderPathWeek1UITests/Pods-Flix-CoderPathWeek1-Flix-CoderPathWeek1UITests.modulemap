@@ -1,0 +1,6 @@
+framework module Pods_Flix_CoderPathWeek1_Flix_CoderPathWeek1UITests {
+  umbrella header "Pods-Flix-CoderPathWeek1-Flix-CoderPathWeek1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
